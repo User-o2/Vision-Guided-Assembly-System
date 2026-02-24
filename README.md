@@ -1,4 +1,4 @@
-# Vision Guided Assembly System
+# 智能装配系统
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -9,7 +9,7 @@
 
 ## 项目简介
 
-SerialVisionUI是一个现代化的智能装配平台**上位机控制系统**，通过**计算机视觉**技术和**串口通信**实现对自动装配设备的精确控制。系统集成了实时图像识别、物料检测、装配流程监控等功能，为工业自动化提供了完整的解决方案。
+本项目是一个现代化的智能装配平台**上位机控制系统**，通过**计算机视觉**技术和**串口通信**实现对自动装配设备的精确控制。系统集成了实时图像识别、物料检测、装配流程监控等功能，为工业自动化提供了完整的解决方案。
 
 ### 主要特性
 
@@ -23,7 +23,7 @@ SerialVisionUI是一个现代化的智能装配平台**上位机控制系统**�
 ## 项目结构
 
 ```
-SerialVisionUI/
+Vision-Guided-Assembly-System/
 ├── src/                          # 源代码目录
 │   └── serial_vision_ui/         # 主包
 │       ├── ui/                   # UI界面模块
@@ -66,8 +66,8 @@ SerialVisionUI/
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/User-o2/SerialVisionUI.git
-cd SerialVisionUI
+git clone https://github.com/User-o2/Vision-Guided-Assembly-System.git
+cd Vision-Guided-Assembly-System
 ```
 
 2. **创建虚拟环境**
