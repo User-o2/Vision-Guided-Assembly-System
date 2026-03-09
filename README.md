@@ -5,11 +5,11 @@
 [![PyQt5](https://img.shields.io/badge/GUI-PyQt5-orange.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 [![OpenCV](https://img.shields.io/badge/Vision-OpenCV-red.svg)](https://opencv.org/)
 
-> 🤖 基于PyQt5和OpenCV的全自动装配设备上位机控制系统
+> 🕰️ 完成于**2023.11 - 2025.1**
 
 ## 项目简介
 
-本项目是一个现代化的智能装配平台**上位机控制系统**，通过**计算机视觉**技术和**串口通信**实现对自动装配设备的精确控制。系统集成了实时图像识别、物料检测、装配流程监控等功能，为工业自动化提供了完整的解决方案。
+本项目是一个基于 PyQt5 和 OpenCV 的智能装配平台**上位机控制系统**，通过**计算机视觉**技术和**串口通信**实现对自动装配设备的精确控制。系统集成了实时图像识别、物料检测、装配流程监控等功能，为工业自动化提供了完整的解决方案。
 
 ### 主要特性
 
